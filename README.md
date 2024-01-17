@@ -1,3 +1,5 @@
+## Introduction
+
 This Java project implements an algorithm to determine if a target string can be constructed from elements in a provided word bank. It's suitable for applications like word games or text processing.
 
 ## Algorithm
